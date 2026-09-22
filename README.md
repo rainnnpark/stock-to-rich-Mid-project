@@ -57,6 +57,7 @@ final/
 ├── README.md                         # 프로젝트·실행·모듈 안내
 ├── requirements.txt                  # 검증 환경의 Python 패키지 버전
 ├── MODULE_GUIDE.md                   # 상세 모듈 안내 원본
+├── TROUBLE_SHOOTING.md               # 문제 상황 및 해결 과정 기록
 ├── original_code/
 │   ├── sp500_stability_v17.ipynb     # 안정성 분류 원본 연구
 │   └── test_validation_report.ipynb  # 검증·수익성 원본 연구
